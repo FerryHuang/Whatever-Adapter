@@ -1,0 +1,12 @@
+image_encoder
+ip_adapter
+experiments
+.vscode
+__pycache__
+wandb
+*.jpg
+*.pkl
+*.png
+*.log
+*.txt
+stable-diffusion-xl-base-1.0
