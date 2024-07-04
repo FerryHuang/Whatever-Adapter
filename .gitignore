@@ -1,0 +1,11 @@
+__pycache__
+.vscode
+image_encoder
+ip_adapter
+stable-diffusion-xl-base-1.0
+processor_error_imgs
+*.log
+*.txt
+*.pkl
+wandb
+experiments
